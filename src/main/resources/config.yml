@@ -1,0 +1,8 @@
+explosive-xbow:
+  enable: true
+  power: 4.0
+  particle: true
+explosive-bow:
+  enable: true
+  power: 2.0
+  particle: true

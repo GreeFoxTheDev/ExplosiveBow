@@ -1,0 +1,4 @@
+name: ExplosiveBow
+version: '1.0-SNAPSHOT'
+main: greefox.explosiveBow.ExplosiveBow
+api-version: '1.21'
